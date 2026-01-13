@@ -1,5 +1,5 @@
 # Hi, I'm Avinash 👋
-Software Engineer • Java Developer • Database Enthusiast
+Software Engineer • Java Developer • Cloud Enthusiast
 
 About
 -----
