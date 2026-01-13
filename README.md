@@ -43,7 +43,7 @@ Below are example project highlight entries. I will populate these with your rep
 - Project: Portfolio Website  
   - Tech: HTML, CSS, JavaScript  
   - Summary: Responsive personal portfolio showcasing projects and contact form. Implemented client-side validation and lightweight animations.  
-  - Link: https://github.com/Avinash2k4/Personal-Portfolio
+  - Link: https://avinash2k4.github.io/Personal-Portfolio/
 
 - Project: UI Automation Suite  
   - Tech: Selenium, TestNG, Java  
