@@ -29,7 +29,6 @@ Skills
 - Libraries & Frameworks: JDBC, basic Spring Boot
 - Testing & Automation: Selenium WebDriver, TestNG
 - Tools: Git, Maven/Gradle (build tools)
-- Practices: TDD mindset, code reviews, CI awareness
 
 Project Highlights (template — replace with your projects)
 ---------------------------------------------------------
