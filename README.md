@@ -44,7 +44,7 @@ Below are example project highlight entries. I will populate these with your rep
   - Tech: Java, MySQL, JDBC  
   - Summary: Backend-only bus reservation system implementing core booking flows, seat availability management, fare calculation, and booking persistence using JDBC with MySQL. Focused on robust transaction management and concurrency-safe seat allocation.  
   - Key contributions: Database schema design for buses, routes, schedules and bookings; JDBC-based DAO layer with prepared statements and transaction handling; concurrency control and optimistic checks to prevent overbooking; unit and integration tests for DAO and service layers.  
-  - Link: https://github.com/Avinash2k4/jdbc-bus-reservation
+  - Link: https://github.com/Avinash2k4/Bus-Reservation-using-JDBC
 
 - Project: Portfolio Website  
   - Tech: HTML, CSS, JavaScript  
