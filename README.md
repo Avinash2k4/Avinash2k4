@@ -30,9 +30,15 @@ Skills
 - Testing & Automation: Selenium WebDriver, TestNG
 - Tools: Git, Maven/Gradle (build tools)
 
-Project Highlights (template — replace with your projects)
+Project Highlights 
 ---------------------------------------------------------
 Below are example project highlight entries. I will populate these with your repositories when you share links.
+
+- Project: Employee Management System
+   - Tech: Java, Spring Boot, Spring Data JPA, MySQL, Thymeleaf
+   - Summary: Full-stack Employee Management System implementing CRUD operations using Spring Boot MVC architecture with Thymeleaf UI and MySQL database. Focused on layered architecture (Controller-Service-   -Repository) and form-based employee data management.
+   - Key contributions: Employee entity model with JPA annotations; Spring Data JPA repository for database operations; Service layer with business logic; Thymeleaf templates for list/add/update views; RESTful controller endpoints.
+   - Link: https://github.com/Avinash2k4/Employee-Management
 
 - Project: JDBC Bus Reservation System (backend only)  
   - Tech: Java, MySQL, JDBC  
